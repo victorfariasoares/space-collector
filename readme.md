@@ -1,4 +1,4 @@
-🚀 Space Collector
+# 🚀 Space Collector
 
 Pilote sua nave espacial e colete estrelas enquanto desvia de inimigos alienígenas!
 
