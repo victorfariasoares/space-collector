@@ -1,15 +1,19 @@
-# Space Collector 🚀
+🚀 Space Collector
 
-Jogo desenvolvido como projeto da disciplina Jogos Digitais - Insper 2026.1
+Pilote sua nave espacial e colete estrelas enquanto desvia de inimigos alienígenas!
 
-## Como Jogar
-- **WASD** ou **analógico esquerdo do controle Xbox** para mover a nave
-- Colete todas as estrelas para acumular pontos
+Como Jogar:
+- WASD ou analógico esquerdo do controle Xbox para mover a nave
+- Colete as gemas para acumular pontos (100pts cada)
 - Evite os inimigos — cada colisão tira uma vida
-- Você tem 3 vidas!
+- Você tem 3 vidas — sobreviva o máximo que puder!
 
-## Créditos
+Desenvolvido por [SEU NOME COMPLETO]
+Disciplina: Jogos Digitais 2026.1 — Insper
+
+Código fonte: https://github.com/victorfariasoares/space-collector
+
+Créditos:
 - Música: MondaMusic via Pixabay
-  https://pixabay.com/users/mondamusic-54713575/
-- Sprites de gems: OpenGameArt
-- Sprites de nave e inimigos: Space Shooter Redux - OpenGameArt
+- Sprites: Space Shooter Redux — OpenGameArt
+- Gems: OpenGameArt
